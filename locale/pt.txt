@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_514567D1_17D0_F4D5_41AD_56EF496D4243.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
-LinkBehaviour_514417D2_17D0_F4D7_41AB_AF35BC7F66B1.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_07B72337_15AB_799F_41B2_9421998C281C.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_514417D2_17D0_F4D7_41AB_AF35BC7F66B1.source = mailto:reservas.pousadas@grupobosconoronha.com.br
 
 ## Hotspot
 
@@ -53,7 +53,7 @@ HotspotPanoramaOverlayArea_7DE1A275_7228_3213_41BB_70CCFAE242D2.toolTip = VARAND
 
 ### Audio
 audiores_0256AF72_1570_55D7_4174_000D452701EF.mp3Url = media/audio_037740F6_1570_4CDF_41A6_1EF8CCB15BD4_pt.mp3
-audiores_591F471B_1771_B555_418C_88739A5BC12C.mp3Url = media/audio_58060DCA_1777_D537_41AA_4A277CB967E2_pt.mp3
+audiores_48A33AE9_16F0_FCF5_419E_6B3D8CBEAE0D.mp3Url = media/audio_4EA70E6D_16D0_D7CD_4194_9BA2AFA2192D_pt.mp3
 
 ### Image
 imlevel_20F00046_36C2_99D0_41C5_4CF3DD643DAE.url = media/panorama_20748154_36C5_7BF0_41B7_0B2460D3A899_HS_6p1gmyyw_pt.png
@@ -111,10 +111,10 @@ panorama_65DB7C1A_6F60_DBFB_41D0_2BEF573E7B30.label = suite04_var
 panorama_006C56E3_1570_D4F5_4186_47C55FC58035.label = suite04_varB
 
 ### Video
-videolevel_4FB1884F_16B0_5BCD_41A1_10092DD8EA9A.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
-videolevel_4FB1884F_16B0_5BCD_41A1_10092DD8EA9A.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
-videolevel_4FB018EF_16B0_5CCD_41A3_4B96A13A193E.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
-videolevel_4FB018EF_16B0_5CCD_41A3_4B96A13A193E.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
+videolevel_487EC7B8_16F0_F553_41B6_716FCCBF20CC.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
+videolevel_487EC7B8_16F0_F553_41B6_716FCCBF20CC.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
+videolevel_4841783E_16F0_FB4F_41AD_321E529B1D66.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
+videolevel_4841783E_16F0_FB4F_41AD_321E529B1D66.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
 
 ### Video Subtitles
 
@@ -151,6 +151,8 @@ Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_mobile.url = skin/Image_08228752_10A9
 Image_08228752_10A9_55EF_41AF_DEF1F5485CF2.url = skin/Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_pt.jpg
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile_pt.png
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_pt.png
+Image_483A910D_16D0_CD4D_41B2_983038A81C7B.url = skin/Image_483A910D_16D0_CD4D_41B2_983038A81C7B_pt.png
+Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE.url = skin/Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_pt.png
 Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_mobile.url = skin/Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_mobile_pt.png
 Image_8200FB99_8D15_7CE8_41D9_06CAD9300858.url = skin/Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_pt.png
 Image_8202416B_8D15_EC28_41E1_8A4DA1868050_mobile.url = skin/Image_8202416B_8D15_EC28_41E1_8A4DA1868050_mobile_pt.png
@@ -163,8 +165,6 @@ Image_829F9EE5_8D13_3458_41D5_6245C997A79E_mobile.url = skin/Image_829F9EE5_8D13
 Image_829F9EE5_8D13_3458_41D5_6245C997A79E.url = skin/Image_829F9EE5_8D13_3458_41D5_6245C997A79E_pt.png
 Image_82AC85E9_8D12_F428_41DD_74090C119F4F_mobile.url = skin/Image_82AC85E9_8D12_F428_41DD_74090C119F4F_mobile_pt.png
 Image_82AC85E9_8D12_F428_41DD_74090C119F4F.url = skin/Image_82AC85E9_8D12_F428_41DD_74090C119F4F_pt.png
-Image_AE077302_B253_911F_41E2_CC0AA598B01A_mobile.url = skin/Image_AE077302_B253_911F_41E2_CC0AA598B01A_mobile_pt.png
-Image_AE077302_B253_911F_41E2_CC0AA598B01A.url = skin/Image_AE077302_B253_911F_41E2_CC0AA598B01A_pt.png
 
 ### Multiline Text
 HTMLText_0DBB631D_10E8_CD95_419B_A13FBAF1D5F9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Casa Divino Morro</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Localizada a 300m da Praia do Bode.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Reservas:  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">       </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
