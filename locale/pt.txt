@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_514567D1_17D0_F4D5_41AD_56EF496D4243.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
+LinkBehaviour_714E5ECD_16F0_54CD_41A2_ABADCEA818DB.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_07B72337_15AB_799F_41B2_9421998C281C.source = mailto:reservas.pousadas@grupobosconoronha.com.br
-LinkBehaviour_514417D2_17D0_F4D7_41AB_AF35BC7F66B1.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_714E9ECE_16F0_54CF_4102_A853E3D12CA0.source = mailto:reservas.pousadas@grupobosconoronha.com.br
 
 ## Hotspot
 
@@ -111,10 +111,10 @@ panorama_65DB7C1A_6F60_DBFB_41D0_2BEF573E7B30.label = suite04_var
 panorama_006C56E3_1570_D4F5_4186_47C55FC58035.label = suite04_varB
 
 ### Video
-videolevel_487EC7B8_16F0_F553_41B6_716FCCBF20CC.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
-videolevel_487EC7B8_16F0_F553_41B6_716FCCBF20CC.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
-videolevel_4841783E_16F0_FB4F_41AD_321E529B1D66.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
-videolevel_4841783E_16F0_FB4F_41AD_321E529B1D66.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
+videolevel_7F204034_16F0_4B53_41A3_1E279D496220.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
+videolevel_7F204034_16F0_4B53_41A3_1E279D496220.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
+videolevel_7F2300BB_16F0_4B55_419E_E44524D0C599.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
+videolevel_7F2300BB_16F0_4B55_419E_E44524D0C599.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
 
 ### Video Subtitles
 
@@ -151,7 +151,7 @@ Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_mobile.url = skin/Image_08228752_10A9
 Image_08228752_10A9_55EF_41AF_DEF1F5485CF2.url = skin/Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_pt.jpg
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile_pt.png
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_pt.png
-Image_483A910D_16D0_CD4D_41B2_983038A81C7B.url = skin/Image_483A910D_16D0_CD4D_41B2_983038A81C7B_pt.png
+Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_mobile.url = skin/Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_mobile_pt.png
 Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE.url = skin/Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_pt.png
 Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_mobile.url = skin/Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_mobile_pt.png
 Image_8200FB99_8D15_7CE8_41D9_06CAD9300858.url = skin/Image_8200FB99_8D15_7CE8_41D9_06CAD9300858_pt.png
