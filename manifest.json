@@ -1,5 +1,4 @@
 {
- "start_url": "index.htm",
  "icons": [
   {
    "src": "misc/icon16.png",
@@ -37,8 +36,9 @@
    "sizes": "180x180"
   }
  ],
- "name": "Projeto Morro Divino",
  "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
- "display": "fullscreen"
+ "start_url": "index.htm",
+ "display": "fullscreen",
+ "name": "Projeto Morro Divino"
 }
