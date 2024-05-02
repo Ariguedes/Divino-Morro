@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_BE0B50D3_3F95_1650_41C3_6A03DC45B0FE.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
-LinkBehaviour_BE0B80D4_3F95_1650_41C3_2F85A7A70341.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_07B72337_15AB_799F_41B2_9421998C281C.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_BE0B80D4_3F95_1650_41C3_2F85A7A70341.source = mailto:reservas.pousadas@grupobosconoronha.com.br
 
 ## Hotspot
 
@@ -111,10 +111,10 @@ panorama_65DB7C1A_6F60_DBFB_41D0_2BEF573E7B30.label = suite04_var
 panorama_006C56E3_1570_D4F5_4186_47C55FC58035.label = suite04_varB
 
 ### Video
-videolevel_A48044A2_3F8D_3EF0_41C4_9EFF816C6395.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
-videolevel_A48044A2_3F8D_3EF0_41C4_9EFF816C6395.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
-videolevel_A47C750F_3F8D_3FB0_41CA_3ABD728F728F.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
-videolevel_A47C750F_3F8D_3FB0_41CA_3ABD728F728F.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
+videolevel_FE56DDCE_3C7D_0EB0_41C0_27C027CFAC22.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
+videolevel_FE56DDCE_3C7D_0EB0_41C0_27C027CFAC22.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
+videolevel_FE5F0E46_3C7D_0DB0_41C6_FB77EAFD9686.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
+videolevel_FE5F0E46_3C7D_0DB0_41C6_FB77EAFD9686.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
 
 ### Video Subtitles
 
