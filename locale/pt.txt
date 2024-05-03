@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_BE0B50D3_3F95_1650_41C3_6A03DC45B0FE.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
+LinkBehaviour_F02E2DB1_37B5_0ED0_4189_F8A7461D857A.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_08F2070A_14AB_CE25_4182_B46D69389060.source = https://api.whatsapp.com/send?phone=5581997365273&text=Agende%20seu%20passeio%20pelo%20WhatsApp
 LinkBehaviour_07B72337_15AB_799F_41B2_9421998C281C.source = mailto:reservas.pousadas@grupobosconoronha.com.br
-LinkBehaviour_BE0B80D4_3F95_1650_41C3_2F85A7A70341.source = mailto:reservas.pousadas@grupobosconoronha.com.br
+LinkBehaviour_F023FDB3_37B5_0ED0_41BA_AA7D60E552DA.source = mailto:reservas.pousadas@grupobosconoronha.com.br
 
 ## Hotspot
 
@@ -124,10 +124,10 @@ video_7FB6BCC8_6FA1_B447_41D7_68C659150511.label = naufragio
 panorama_79471EE2_7218_5231_4196_F79D6B431644.label = observatorio
 
 ### Video
-videolevel_D2726BA2_3CB5_0AF0_41B4_EF5BA0C78C55.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
-videolevel_D2726BA2_3CB5_0AF0_41B4_EF5BA0C78C55.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
-videolevel_D270DC13_3CB5_0DD0_41AB_2C6AE3EDAB09.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
-videolevel_D270DC13_3CB5_0DD0_41AB_2C6AE3EDAB09.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
+videolevel_EFE864F3_378D_1E50_41BF_5814A3294BCB.posterURL = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_poster_pt.jpg
+videolevel_EFE864F3_378D_1E50_41BF_5814A3294BCB.url = media/video_7F3F6C0C_6FA3_5BDF_41C1_B468BFB2A208_pt.mp4
+videolevel_EFEAE576_378D_1E50_41B3_6A16EEA91E40.posterURL = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_poster_pt.jpg
+videolevel_EFEAE576_378D_1E50_41B3_6A16EEA91E40.url = media/video_7FB6BCC8_6FA1_B447_41D7_68C659150511_pt.mp4
 
 ### Video Subtitles
 
@@ -136,18 +136,18 @@ videolevel_D270DC13_3CB5_0DD0_41AB_2C6AE3EDAB09.url = media/video_7FB6BCC8_6FA1_
 ### Button
 Button_03385456_14BE_C22D_41AF_F4D7780D9FC9.label = +55 81 97345-1050
 Button_03385456_14BE_C22D_41AF_F4D7780D9FC9_mobile.label = +55 81 97345-1050
-Button_64F6FD8F_7FBB_D1A6_41C0_AB8CA0AD52CF.label = A casa
-Button_64F6FD8F_7FBB_D1A6_41C0_AB8CA0AD52CF_mobile.label = A casa
-Button_64F64D90_7FBB_D1BA_41A9_974400F87DBB.label = Contact Information
 Button_64F64D90_7FBB_D1BA_41A9_974400F87DBB_mobile.label = Contact Information
-Button_64F63D90_7FBB_D1BA_41D3_C2D6988DDF1D.label = Floorplan
-Button_64F63D90_7FBB_D1BA_41D3_C2D6988DDF1D_mobile.label = Floorplan
-Button_64F66D90_7FBB_D1BA_41C4_F370366F2371.label = Photoalbum
+Button_64F64D90_7FBB_D1BA_41A9_974400F87DBB.label = Contact Information
+Button_64F63D90_7FBB_D1BA_41D3_C2D6988DDF1D.label = Foto da Pousada
+Button_64F63D90_7FBB_D1BA_41D3_C2D6988DDF1D_mobile.label = Foto da Pousada
 Button_64F66D90_7FBB_D1BA_41C4_F370366F2371_mobile.label = Photoalbum
+Button_64F66D90_7FBB_D1BA_41C4_F370366F2371.label = Photoalbum
 Button_50E63FD9_13B8_D49D_41AE_15255810C309_mobile.label = Refeitório
 Button_50E63FD9_13B8_D49D_41AE_15255810C309.label = Refeitório
-Button_296C097C_13E7_FD9B_41AE_D62B370D1DD4.label = Suíte 01
+Button_64F6FD8F_7FBB_D1A6_41C0_AB8CA0AD52CF.label = Reservas
+Button_64F6FD8F_7FBB_D1A6_41C0_AB8CA0AD52CF_mobile.label = Reservas
 Button_296C097C_13E7_FD9B_41AE_D62B370D1DD4_mobile.label = Suíte 01
+Button_296C097C_13E7_FD9B_41AE_D62B370D1DD4.label = Suíte 01
 Button_511FDE0D_13A7_7775_417F_7109DEF0A658_mobile.label = Suíte 02
 Button_511FDE0D_13A7_7775_417F_7109DEF0A658.label = Suíte 02
 Button_50E66910_13A9_FD6B_41B0_EBB283A1FA25.label = Suíte 03
@@ -160,8 +160,6 @@ Button_07B98335_15AB_7993_41A3_03AF45AE1570.label = reservas.pousadas@grupobosco
 Button_07B98335_15AB_7993_41A3_03AF45AE1570_mobile.label = reservas.pousadas@grupobosconoronha.com.br
 
 ### Image
-Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_mobile.url = skin/Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_mobile_pt.jpg
-Image_08228752_10A9_55EF_41AF_DEF1F5485CF2.url = skin/Image_08228752_10A9_55EF_41AF_DEF1F5485CF2_pt.jpg
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_mobile_pt.png
 Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA.url = skin/Image_318B50E5_1068_CCB5_41AD_863ABD68A9FA_pt.png
 Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_mobile.url = skin/Image_4C55D54F_16D0_F5CD_4159_8B7A4DF084CE_mobile_pt.png
@@ -178,10 +176,14 @@ Image_829F9EE5_8D13_3458_41D5_6245C997A79E_mobile.url = skin/Image_829F9EE5_8D13
 Image_829F9EE5_8D13_3458_41D5_6245C997A79E.url = skin/Image_829F9EE5_8D13_3458_41D5_6245C997A79E_pt.png
 Image_82AC85E9_8D12_F428_41DD_74090C119F4F_mobile.url = skin/Image_82AC85E9_8D12_F428_41DD_74090C119F4F_mobile_pt.png
 Image_82AC85E9_8D12_F428_41DD_74090C119F4F.url = skin/Image_82AC85E9_8D12_F428_41DD_74090C119F4F_pt.png
+Image_E003ED0D_3793_0FB0_41CC_BF361D0656A5_mobile.url = skin/Image_E003ED0D_3793_0FB0_41CC_BF361D0656A5_mobile_pt.jpg
+Image_E003ED0D_3793_0FB0_41CC_BF361D0656A5.url = skin/Image_E003ED0D_3793_0FB0_41CC_BF361D0656A5_pt.jpg
 
 ### Multiline Text
+HTMLText_E6676278_3CF2_FA50_41C6_FD410A5CDFAE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">{{title}}</SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">{{subtitle}}</SPAN></DIV></div>
+HTMLText_E6676278_3CF2_FA50_41C6_FD410A5CDFAE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;">{{title}}</SPAN></DIV><DIV STYLE="text-align:center;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;">{{subtitle}}</SPAN></DIV></div>
 HTMLText_0DBB631D_10E8_CD95_419B_A13FBAF1D5F9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;"><B>Casa Divino Morro</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Localizada a 300m da Praia do Bode.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Reservas:  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">       </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
-HTMLText_0DBB631D_10E8_CD95_419B_A13FBAF1D5F9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;"><B>Casa Divino Morro</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7px;">Localizada a 300m da Praia do Bode.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:10px;">Reservas:  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;">       </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0DBB631D_10E8_CD95_419B_A13FBAF1D5F9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>Casa Divino Morro</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Localizada a 300m da Praia do Bode.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:12px;">Reservas:  </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;">       </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:6px;"> </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
